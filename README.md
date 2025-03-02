@@ -1,4 +1,4 @@
-# Linear-Regression-Project
+# Prediction-of-sales-on-Advertisement
 Key Analysis Performed
 ✅ Data Cleaning & Preparation
 
